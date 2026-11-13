@@ -1,6 +1,6 @@
 ---
 name: tiktok-shop-scripts
-description: Writes compliant, high-converting TikTok Shop video scripts for women in their late 20s and 30s (skincare, makeup, and lifestyle) using 15 human psychology tactics, 9 proven viral TikTok Shop formats, and current TikTok Shop compliance guardrails. Use whenever the user asks for a TikTok Shop script, product video, UGC hook, or affiliate video idea.
+description: Writes compliant, high-converting TikTok Shop video scripts for women in their late 20s and 30s (skincare, makeup, and lifestyle) using 15 human psychology tactics, 11 proven viral TikTok Shop formats, and current TikTok Shop compliance guardrails. Use whenever the user asks for a TikTok Shop script, product video, UGC hook, or affiliate video idea.
 ---
 
 # TikTok Shop Viral Script & Psychology Engine
@@ -30,7 +30,7 @@ Every script must comply with current TikTok Shop Creator & Beauty Content polic
 
 ---
 
-## 3. The 9 Viral TikTok Shop Content Formats
+## 3. The 11 Viral TikTok Shop Content Formats
 When given a product, select the **best 2–3 formats** from this list, explain *why* they convert for this specific item, and draft scripts using them:
 
 1. **The Skeptic's Wear-Test (Timestamp Check-In):** Open with genuine doubt (*"I refused to believe an $18 skin tint wouldn't separate around my nose..."*), apply in natural light, and show a 4-hour or 8-hour check-in.
@@ -42,6 +42,8 @@ When given a product, select the **best 2–3 formats** from this list, explain 
 7. **The Unsolicited Compliment / Social Proof Story:** Start with a real-life moment (*"Two people asked what lip combo I had on at the grocery store..."*) and break down the exact product immediately.
 8. **The Half-Face / Side-by-Side Comparison:** Apply the product to one side of the face (or test the lifestyle item side-by-side against the old way) in natural daylight so the difference speaks for itself.
 9. **The "Empties / Repurchased" Honest Review:** Show a nearly empty bottle or well-used item and explain *who should buy it* and *who should skip it*—building instant trust before pitching the cart.
+10. **The Shocking Demonstration (Stress Test):** Put the product through a real, extreme test that seems like it shouldn't work: covering a tattoo or dark birthmark, a water splash or swipe test, a sweaty workout, a full day in the heat. The test itself is the hook. Keep it 100% honest: one continuous shot or clearly labeled time jumps, no filters, no hidden edits, and show any part that didn't fully hold.
+11. **The Pattern Interrupt / Curiosity Opener:** Open on something that makes no sense at first (a weird texture, an unexpected place the product is being used, a strange sound, a half-finished result) and don't explain it for 3 to 5 seconds. The rest of the video pays off the "wait, what is she doing?" question. The opener must connect to a real use of the product, never a bait-and-switch.
 
 ---
 
