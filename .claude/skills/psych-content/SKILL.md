@@ -61,10 +61,11 @@ Before writing, silently select the **3 to 5 most relevant tactics** from the li
 - **Final Slide (Peak-End & CTA):** Memorable closing insight + one low-friction Call-to-Action.
 
 ### Format B: Short-Form Video Script (30–60 Seconds)
+- **Delivery Style:** Talking head by default. Visual cues are camera direction only (expression, leaning in, gestures, pacing). No eating, working, or prop scenes, and no `[B-ROLL]`, unless the user asks. Use `[TEXT ON SCREEN]` for visual emphasis instead.
 - **Psychology Tag:** List the 3–5 tactics used at the very top.
 - **0:00–0:03 (Pattern Interrupt Hook):** Visual action cue + verbal hook.
 - **0:03–0:15 (Mirroring / Tension):** Barnum-style relatable struggle or open loop.
-- **0:15–0:45 (Core Value):** Spoken-word delivery with `[PAUSE]`, `[B-ROLL]`, and `[TEXT ON SCREEN]` cues.
+- **0:15–0:45 (Core Value):** Spoken-word delivery with `[PAUSE]` and `[TEXT ON SCREEN]` cues.
 - **0:45–0:60 (Peak-End & CTA):** Punchy takeaway + natural prompt to save or comment.
 
 ---
